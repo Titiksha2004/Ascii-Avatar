@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ascii-Avatar/static/css/main.6569bc5b.css",
+    "main.js": "/Ascii-Avatar/static/js/main.eaba99a8.js",
+    "index.html": "/Ascii-Avatar/index.html",
+    "main.6569bc5b.css.map": "/Ascii-Avatar/static/css/main.6569bc5b.css.map",
+    "main.eaba99a8.js.map": "/Ascii-Avatar/static/js/main.eaba99a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6569bc5b.css",
+    "static/js/main.eaba99a8.js"
+  ]
+}
